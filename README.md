@@ -1,0 +1,2 @@
+# weather-application-2
+SHOWCASING MY HTML, CSS and JAVASCRIPT UNDEERSTANDING.
